@@ -1,0 +1,1 @@
+import{t as e}from"./CockpitDashboardPage-CnKOpC_h.js";export{e as default};
