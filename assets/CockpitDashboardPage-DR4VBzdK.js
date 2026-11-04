@@ -1,0 +1,1 @@
+import{t as e}from"./CockpitDashboardPage-DMjxyisX.js";export{e as default};
