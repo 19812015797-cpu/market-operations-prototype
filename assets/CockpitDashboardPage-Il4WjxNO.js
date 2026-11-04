@@ -1,0 +1,1 @@
+import{t as e}from"./CockpitDashboardPage-CMc-hx1Q.js";export{e as default};
