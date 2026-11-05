@@ -1,0 +1,1 @@
+import{t as e}from"./CockpitDashboardPage-fLOUlcuW.js";export{e as default};
